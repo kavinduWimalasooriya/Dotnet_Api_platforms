@@ -60,3 +60,5 @@ D:\PROJECTS\Dotnet\PlateformService\obj\Debug\net5.0\PlateformService.dll
 D:\PROJECTS\Dotnet\PlateformService\obj\Debug\net5.0\ref\PlateformService.dll
 D:\PROJECTS\Dotnet\PlateformService\obj\Debug\net5.0\PlateformService.pdb
 D:\PROJECTS\Dotnet\PlateformService\obj\Debug\net5.0\PlateformService.genruntimeconfig.cache
+D:\PROJECTS\Dotnet\PlateformService\bin\Debug\net5.0\AutoMapper.dll
+D:\PROJECTS\Dotnet\PlateformService\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
